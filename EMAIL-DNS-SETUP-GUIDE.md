@@ -1,4 +1,9 @@
 # Email, DNS & SSL Setup Guide for kludgebot.bot
+
+> **⚠️ IMPORTANT: For sending authenticated emails from johnny@kludgebot.com through Gmail, see [EMAIL-SENDGRID-GUIDE.md](./EMAIL-SENDGRID-GUIDE.md) first!**
+>
+> This guide covers the legacy/original setup for kludgebot.bot domain. For the current kludgebot.com SendGrid implementation (recommended), use the SendGrid guide.
+
 **Cloudflare + OVH + Gmail Integration**
 
 ---
